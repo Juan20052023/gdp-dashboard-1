@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 # --- CONFIGURACIÓN DE PÁGINA ---
 st.set_page_config(page_title="Branch & Bound", layout="wide")
-st.title("🌳 Optimizador Lineal: Branch & Bound")
+st.title(" Optimizador Lineal: Branch & Bound")
 st.markdown("Resuelve problemas de 3 variables mostrando el paso a paso de la ramificación y una visualización gráfica del árbol completo.")
 
 # --- SECCIÓN DE ENTRADA DE DATOS ---
